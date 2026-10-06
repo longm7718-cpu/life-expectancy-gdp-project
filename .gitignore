@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 .DS_Store
+.venv/
+
+# Charts written by the notebook. The copies inside the notebook are what GitHub renders.
+*.png
